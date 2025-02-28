@@ -1,0 +1,50 @@
+/*******************************/
+/* ANNOUNCEMENT */
+/*******************************/
+
+.announcement {
+  background-color: #1c1c1c;
+  padding: 1rem;
+}
+
+.announcement-text {
+  font-size: 1rem;
+  color: #fff;
+  text-align: center;
+  letter-spacing: 0.04rem;
+}
+
+/*******************************/
+/* HEADER */
+/*******************************/
+
+.header {
+  padding: 2.5rem 3.2rem;
+}
+
+.search {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.search-text {
+  font-size: 1.3rem;
+}
+
+.logo {
+  width: 50%;
+  justify-self: center;
+}
+
+.flag-account-cart {
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+}
+
+.flag {
+  width: 1.5rem;
+  height: 1rem;
+  background: url("https://mdbootstrap.com/img/svg/flags.png") -72px -1950px;
+}
